@@ -1,19 +1,19 @@
-Contact Manager JavaScript Project
+#Contact Manager JavaScript Project
 This project is a simple contact manager application built using JavaScript. The application allows users to add, edit, delete, and view contacts. The project is hosted on Firebase, which provides a real-time database to store the contacts and enables immediate updates to the contact list for all users.
 
-Usage
+##Usage
 To use the contact manager, you can either open the live version at https://ourcontacts-6b243.web.app/#/ or download the code from the repository and open the index.html file in your browser. Once the application is open, you will be presented with a list of contacts and options to add, edit, and delete contacts.
 
-Adding a Contact
+##Adding a Contact
 To add a contact, click the "Add Contact" button and enter the contact information in the form. Once you have entered the contact information, click "Save" to save the contact.
 
-Editing a Contact
+##Editing a Contact
 To edit a contact, click the "Edit" button next to the contact you wish to edit. Edit the contact information in the form and click "Save" to save the changes.
 
-Deleting a Contact
+##Deleting a Contact
 To delete a contact, click the "Delete" button next to the contact you wish to delete.
 
-Installation
+##Installation
 To install the project, simply clone the repository and open the index.html file in your browser.
 
 bash
