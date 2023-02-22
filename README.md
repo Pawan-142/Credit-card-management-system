@@ -1,4 +1,4 @@
-# Contact Manager JavaScript Project
+# Contact Hive JavaScript Project
 This project is a simple contact manager application built using JavaScript. The application allows users to add, edit, delete, and view contacts. The project is hosted on Firebase, which provides a real-time database to store the contacts and enables immediate updates to the contact list for all users.
 
 ## Usage
